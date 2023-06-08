@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Sinaleir.svg"
+   inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\verde.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="1.3757631"
+     inkscape:cx="238.41313"
+     inkscape:cy="-3.9977812"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1140"
+       x="-0.26753506"
+       y="-0.26753506"
+       width="1.5350701"
+       height="1.5350701">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2301187"
+         id="feGaussianBlur1142" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1290"
+       x="-0.26093629"
+       y="-0.26093629"
+       width="1.5218726"
+       height="1.5218726">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1970969"
+         id="feGaussianBlur1292" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1466"
+       x="-0.33096405"
+       y="-0.33096405"
+       width="1.6619281"
+       height="1.6619281">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5475324"
+         id="feGaussianBlur1468" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:0.561416"
+       id="rect846"
+       width="23.205786"
+       height="43.255013"
+       x="5.8037009"
+       y="6.6967669"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\apagado.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#800000;stroke:#000000;stroke-width:0.521712"
+       id="path936"
+       cx="17.406593"
+       cy="13.650563"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\apagado.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#808000;stroke:#000000;stroke-width:0.521712"
+       id="circle1018"
+       cx="17.406593"
+       cy="27.972448"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\apagado.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#008000;stroke:#000000;stroke-width:0.521712"
+       id="circle1020"
+       cx="17.406593"
+       cy="42.294323"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\apagado.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:0.561416"
+       id="rect1112"
+       width="23.205786"
+       height="43.255013"
+       x="37.728405"
+       y="6.6967669"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\vermelho.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#800000;stroke:#000000;stroke-width:0.521712"
+       id="circle1114"
+       cx="49.331299"
+       cy="13.650563"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\vermelho.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#808000;stroke:#000000;stroke-width:0.521712"
+       id="circle1116"
+       cx="49.331299"
+       cy="27.972448"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\vermelho.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#008000;stroke:#000000;stroke-width:0.521712"
+       id="circle1118"
+       cx="49.331299"
+       cy="42.294323"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\vermelho.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.521712;filter:url(#filter1140)"
+       id="circle1120"
+       cx="49.331299"
+       cy="13.650563"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\vermelho.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:0.561416"
+       id="rect1162"
+       width="23.205786"
+       height="43.255013"
+       x="71.960922"
+       y="6.1198144"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\amarelo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#800000;stroke:#000000;stroke-width:0.521712"
+       id="circle1164"
+       cx="83.563812"
+       cy="13.07361"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\amarelo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#808000;stroke:#000000;stroke-width:0.521712"
+       id="circle1166"
+       cx="83.563812"
+       cy="27.395496"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\amarelo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#008000;stroke:#000000;stroke-width:0.521712"
+       id="circle1168"
+       cx="83.563812"
+       cy="41.717369"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\amarelo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:0.521712;filter:url(#filter1290)"
+       id="circle1252"
+       cx="83.563812"
+       cy="27.395496"
+       r="6.005084"
+       inkscape:export-filename="D:\Rafael\__Portifolio\MIniProjetos\Sinaleira\amarelo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:0.561416"
+       id="rect1294"
+       width="23.205786"
+       height="43.255013"
+       x="103.69331"
+       y="5.7351794" />
+    <circle
+       style="fill:#800000;stroke:#000000;stroke-width:0.521712"
+       id="circle1296"
+       cx="115.2962"
+       cy="12.688975"
+       r="6.005084" />
+    <circle
+       style="fill:#808000;stroke:#000000;stroke-width:0.521712"
+       id="circle1298"
+       cx="115.2962"
+       cy="27.01086"
+       r="6.005084" />
+    <circle
+       style="fill:#008000;stroke:#000000;stroke-width:0.521712"
+       id="circle1300"
+       cx="115.2962"
+       cy="41.332733"
+       r="6.005084" />
+    <circle
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.521712;filter:url(#filter1466)"
+       id="circle1428"
+       cx="115.2962"
+       cy="41.332733"
+       r="6.005084" />
+  </g>
+</svg>
